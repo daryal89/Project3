@@ -1,14 +1,9 @@
 package mainpackage;
 
-public class ClassD {
+public class ClassE {
 
-	int a;
-	int b;
-	int c;
-	String xyz;
-	
 	public static void main(String[] args) {
-	
+		// TODO Auto-generated method stub
 
 	}
 
