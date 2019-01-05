@@ -2,13 +2,13 @@ package mainpackage;
 
 public class ClassD {
 
-	int x;
-	int y; 
-	int z;
+	int a;
+	int b;
+	int c;
+	String xyz;
+	
 	public static void main(String[] args) {
-		
-		
-		// TODO Auto-generated method stub
+	
 
 	}
 
